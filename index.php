@@ -1,4 +1,4 @@
-<html><code><span class="ascii" style="color: #3F0; background: #282828;
+<html style="background:#000000; color:#ffffff;"><code><span class="ascii" style="color: #3F0; background: #282828;
 display:inline-block;
 white-space:pre;
 letter-spacing:0;
